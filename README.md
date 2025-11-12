@@ -21,10 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/harshhere_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshhere_666" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devesh-singh-0b234928b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-singh-0b234928b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/deveshsingh6611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deveshsingh6611" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/devesh_0661" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devesh_0661" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/it_b2023b0131189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="it_b2023b0131189" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devesh_661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devesh_661" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/devesh661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devesh661" height="30" width="40" /></a>
 </p>
 
