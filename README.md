@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/harshhere_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshhere_666" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devesh-singh-0b234928b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-singh-0b234928b/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devesh661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devesh661" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
