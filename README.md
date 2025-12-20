@@ -1,31 +1,83 @@
 <h1 align="center">Hi 👋, I'm Devesh Singh</h1>
-<h3 align="center">A passionate Flutter Developer And DSA learner</h3>
+<h3 align="center">Flutter Developer | Full-Stack Learner | DSA Enthusiast</h3>
 
-<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvZmk2dG1reDZvYjB1YWVrdHplZWMybW1ndHhlcmV0NDgyY2UzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="350"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvZmk2dG1reDZvYjB1YWVrdHplZWMybW1ndHhlcmV0NDgyY2UzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshsingh641&label=Profile%20views&color=0e75b6&style=flat" alt="deveshsingh641" /> </p>
-
-<p align="left"> <a href="https://twitter.com/harshhere_666" target="blank"><img src="https://img.shields.io/twitter/follow/harshhere_666?logo=twitter&style=for-the-badge" alt="harshhere_666" /></a> </p>
-
-- 🌱 I’m currently learning **MySQL,Flutter And React**
-
-- 👨‍💻 All of my projects are available at https://portfolio-devesh-six.vercel.app/
-
-- 📫 How to reach me **deveshsingh20666@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wKHEqPaQVtZgUwJogWttwGcShQ89IKS6/view?usp=sharing](https://drive.google.com/file/d/1wKHEqPaQVtZgUwJogWttwGcShQ89IKS6/view?usp=sharing)
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/harshhere_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshhere_666" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devesh-singh-0b234928b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-singh-0b234928b/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=deveshsingh641&label=Profile%20views&color=0e75b6&style=flat"
+  alt="deveshsingh641" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshsingh641&show_icons=true&locale=en&layout=compact" alt="deveshsingh641" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsingh641&" alt="deveshsingh641" /></p>
+- 🎯 Flutter Developer focused on building clean and scalable mobile apps  
+- 📚 Actively learning **Flutter, MySQL, React, and Backend Development**
+- 🧠 Strong interest in **Data Structures & Algorithms**
+- 🚀 Always improving through real projects and problem-solving
+
+---
+
+### 🌐 Portfolio & Resume
+
+- 🔗 **Portfolio:** https://portfolio-devesh-six.vercel.app  
+- 📄 **Resume:**  
+  https://drive.google.com/file/d/1wKHEqPaQVtZgUwJogWttwGcShQ89IKS6/view
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: **deveshsingh20666@gmail.com**
+- 🐦 Twitter: [@harshhere_666](https://twitter.com/harshhere_666)
+- 💼 LinkedIn:  
+  https://linkedin.com/in/devesh-singh-0b234928b/
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/harshhere_666" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+    height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/devesh-singh-0b234928b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshsingh641&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsingh641&theme=tokyonight" />
+</p>
+
+---
+
+⚡ **Fun Fact:** I enjoy coding so much that debugging feels like solving a puzzle 😄
