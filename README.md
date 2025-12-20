@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MySQL,Flutter And React**
 
-- 👨‍💻 All of my projects are available at [https://earnest-flan-cfa9af.netlify.app/](https://earnest-flan-cfa9af.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-devesh-six.vercel.app/)
 
 - 📫 How to reach me **deveshsingh20666@gmail.com**
 
