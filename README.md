@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Devesh Singh</h1>
-<h3 align="center">A passionate Flutter Developer And DSA learner</h3>
+<h3 align="center">A passionate Mern Stack Developer And DSA learner</h3>
 
 <img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvZmk2dG1reDZvYjB1YWVrdHplZWMybW1ndHhlcmV0NDgyY2UzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
