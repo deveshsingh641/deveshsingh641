@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshhere_666" target="blank"><img src="https://img.shields.io/twitter/follow/harshhere_666?logo=twitter&style=for-the-badge" alt="harshhere_666" /></a> </p>
 
-- 🌱 I’m currently learning **MySQL,Flutter And React**
+- 🌱 I’m currently learning **React,MySQL And NodeJs**
 
 - 👨‍💻 All of my projects are available at https://www.deveshdev.live/
 
