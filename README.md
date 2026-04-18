@@ -43,15 +43,6 @@ const devesh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deveshsingh641&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</div>
-
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**
