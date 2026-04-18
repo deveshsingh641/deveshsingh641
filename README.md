@@ -1,27 +1,57 @@
-<h1 align="center">Hi 👋, I'm Devesh Singh</h1>
-<h3 align="center">A passionate Full Stack Developer And DSA learner</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlvZmk2dG1reDZvYjB1YWVrdHplZWMybW1ndHhlcmV0NDgyY2UzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devesh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=deveshsingh641&label=Profile%20views&color=0e75b6&style=flat" alt="deveshsingh641" /></p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Devesh+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A9;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 
-- 🌱 I'm currently learning **React, MySQL and Node.js**
-- 👨‍💻 All of my projects are available at [deveshdev.live](https://www.deveshdev.live/)
-- 📫 How to reach me: **deveshsingh20666@gmail.com**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/187BG8K1-_RFM8XziOHSMx_ux-7vdvsiz/view?usp=sharing)
-- ⚡ Fun fact: **I think I am funny**
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<img src="https://komarev.com/ghpvc/?username=deveshsingh641&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<a href="https://linkedin.com/in/devesh-singh-0b234928b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/harshhere_666">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.deveshdev.live/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:deveshsingh20666@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/harshhere_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshhere_666" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devesh-singh-0b234928b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-singh-0b234928b/" height="30" width="40" /></a>
-</p>
+## 🙋‍♂️ About Me
+
+```javascript
+const devesh = {
+  name:       "Devesh Singh",
+  role:       "Full Stack Developer",
+  location:   "India 🇮🇳",
+  learning:   ["React", "Node.js", "MySQL", "System Design"],
+  portfolio:  "https://www.deveshdev.live/",
+  funFact:    "I debug with console.log and I'm not ashamed 😄",
+  openTo:     ["Internships", "Collaborations", "Open Source"]
+};
+```
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deveshsingh641&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -40,9 +70,9 @@
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Languages**
 
@@ -54,14 +84,48 @@
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshsingh641&show_icons=true&locale=en&layout=compact" alt="deveshsingh641" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsingh641&" alt="deveshsingh641" /></p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deveshsingh641&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsingh641&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshsingh641&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshsingh641&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshsingh641/deveshsingh641/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deveshsingh641/deveshsingh641/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/deveshsingh641/deveshsingh641/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
