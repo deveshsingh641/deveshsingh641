@@ -46,8 +46,9 @@ const devesh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deveshsingh641&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=deveshsingh641&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
 </div>
+
 
 ---
 
