@@ -8,7 +8,6 @@
 
 <br/>
 
-<!-- Social Badges -->
 <a href="https://linkedin.com/in/devesh-singh-0b234928b/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -24,7 +23,6 @@
 
 <br/><br/>
 
-<!-- Stats Pills -->
 <img src="https://komarev.com/ghpvc/?username=deveshsingh641&label=Profile+Views&color=a78bfa&style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/deveshsingh641?label=Followers&style=flat-square&color=a78bfa"/>
@@ -33,7 +31,6 @@
 
 <br/><br/>
 
-<!-- Nav Links -->
 [About Me](#-about-me) &nbsp;•&nbsp; [Tech Stack](#-tech-stack) &nbsp;•&nbsp; [GitHub Stats](#-github-stats) &nbsp;•&nbsp; [Projects](#-featured-projects) &nbsp;•&nbsp; [Connect](#-lets-connect)
 
 </div>
@@ -41,8 +38,6 @@
 ---
 
 ## 🙋‍♂️ About Me
-
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/wakatime?username=deveshsingh641&theme=midnight-purple&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 
 ```ts
 const devesh = {
@@ -65,8 +60,6 @@ const devesh = {
 - 👯 &nbsp;Open to collaborate on **web dev** & **open-source** projects
 - 💬 &nbsp;Ask me about **React, Node.js, MongoDB, JavaScript or DSA**
 - ⚡ &nbsp;Fun fact: I've built a Gen AI project, a Flutter finance app *and* a classroom analytics platform — all at once
-
-<br clear="right"/>
 
 ---
 
@@ -94,12 +87,13 @@ const devesh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deveshsingh641&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshsingh641&theme=midnight-purple&hide_border=true"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deveshsingh641&theme=2077"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deveshsingh641&theme=2077"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deveshsingh641&theme=2077"/>
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshsingh641&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8"/>
+<img width="60%" src="https://streak-stats.demolab.com/?user=deveshsingh641&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -119,6 +113,7 @@ const devesh = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deveshsingh641&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&color=a78bfa&line=7c3aed&point=ffffff"/>
 </div>
 
+<!-- 🐍 Snake appears here once you set up the GitHub Action — see setup notes below -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deveshsingh641/deveshsingh641/output/github-snake-dark.svg"/>
@@ -133,21 +128,13 @@ const devesh = {
 
 <div align="center">
 
-<a href="https://github.com/deveshsingh641/ClassIntel">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsingh641&repo=ClassIntel&theme=midnight-purple&hide_border=true&description_lines_count=2"/>
-</a>
-<a href="https://github.com/deveshsingh641/Gen_AI_Project">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsingh641&repo=Gen_AI_Project&theme=midnight-purple&hide_border=true&description_lines_count=2"/>
-</a>
+<a href="https://github.com/deveshsingh641/ClassIntel"><img width="45%" src="https://gh-card.dev/repos/deveshsingh641/ClassIntel.svg?fullname=1&theme=dark"/></a>
+<a href="https://github.com/deveshsingh641/Gen_AI_Project"><img width="45%" src="https://gh-card.dev/repos/deveshsingh641/Gen_AI_Project.svg?fullname=1&theme=dark"/></a>
 
 <br/>
 
-<a href="https://github.com/deveshsingh641/money_mate_project">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsingh641&repo=money_mate_project&theme=midnight-purple&hide_border=true&description_lines_count=2"/>
-</a>
-<a href="https://github.com/deveshsingh641/E-Commerce-Web-Application">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsingh641&repo=E-Commerce-Web-Application&theme=midnight-purple&hide_border=true&description_lines_count=2"/>
-</a>
+<a href="https://github.com/deveshsingh641/money_mate_project"><img width="45%" src="https://gh-card.dev/repos/deveshsingh641/money_mate_project.svg?fullname=1&theme=dark"/></a>
+<a href="https://github.com/deveshsingh641/E-Commerce-Web-Application"><img width="45%" src="https://gh-card.dev/repos/deveshsingh641/E-Commerce-Web-Application.svg?fullname=1&theme=dark"/></a>
 
 </div>
 
@@ -164,13 +151,13 @@ const devesh = {
 
 ---
 
-## 🎧 Spotify — Now Playing
+## 🔥 What I'm Up To
 
 <div align="center">
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify?background_color=0d1117&border_color=a78bfa)](https://open.spotify.com/user/)
-
-> 🔧 **Setup:** To activate the Now Playing card, deploy [novatorem](https://github.com/novatorem/novatorem) to Vercel, connect your Spotify OAuth, and replace the URL above with your own instance URL.
+![Building](https://img.shields.io/badge/Building-MERN%20Stack%20Projects-a78bfa?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-System%20Design%20%26%20DSA-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white)
+![Open To](https://img.shields.io/badge/Open%20To-Internships%20%26%20Freelance-6d28d9?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
 
@@ -214,16 +201,13 @@ const devesh = {
 ---
 
 <details>
-<summary><strong>⚙️ One-time setup checklist (click to expand)</strong></summary>
+<summary><strong>⚙️ One-time setup (click to expand)</strong></summary>
 
 <br/>
 
-| Feature | What to do |
+| Feature | Steps |
 |---|---|
-| 🐍 **Snake animation** | Enable the [Platane/snk](https://github.com/Platane/snk) GitHub Action in your `deveshsingh641/deveshsingh641` repo, scheduled on a cron, writing to an `output` branch |
-| ⏱️ **WakaTime card** | Install the [WakaTime](https://wakatime.com/) plugin in VS Code → link your GitHub username → enable public profile |
-| 🎧 **Spotify Now Playing** | Deploy [novatorem](https://github.com/novatorem/novatorem) to Vercel, connect Spotify OAuth, swap the card URL |
-| 📊 **Stats cards broken?** | It's Vercel free-tier rate limiting — wait ~1 min and reload, or [self-host github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) (free, ~2 min) |
-| 🔗 **Add repo descriptions** | Each pinned card shows better info when the repo has a GitHub description — add them via Settings on each repo page |
+| 🐍 **Snake animation** | In your `deveshsingh641` profile repo, create `.github/workflows/snake.yml` (code in previous message) → go to **Actions → Run workflow** once |
+| 📊 **Still seeing broken stats?** | [Deploy your own github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) on Vercel (free, ~2 min) and swap the domain |
 
 </details>
