@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Devesh%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Devesh%20Singh&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast%20%7C%20Open%20Source%20Lover&descAlignY=55&descSize=16"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Devesh+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A9;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Devesh+Singh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;DSA+Problem+Solver+%F0%9F%A7%A9;Building+cool+things+with+React+%26+Node+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -22,6 +22,15 @@
 <a href="mailto:deveshsingh20666@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<!-- Quick nav -->
+<a href="#-about-me">About</a> •
+<a href="#️-tech-stack">Tech Stack</a> •
+<a href="#-github-stats">Stats</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-lets-connect">Connect</a>
 
 </div>
 
@@ -41,6 +50,12 @@ const devesh = {
 };
 ```
 
+- 🔭 I'm currently building full-stack projects with the **MERN** stack
+- 🌱 I'm currently sharpening my **DSA** and **System Design** skills
+- 👯 I'm open to collaborating on **open source** and **web dev** projects
+- 💬 Ask me about **React, Node.js, JavaScript, or DSA**
+- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed 😄
+
 ---
 
 ## 🛠️ Tech Stack
@@ -53,6 +68,7 @@ const devesh = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend**
 
@@ -81,6 +97,7 @@ const devesh = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -94,6 +111,10 @@ const devesh = {
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshsingh641&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-trophy.vercel.app/?username=deveshsingh641&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </div>
 
 ---
@@ -110,17 +131,67 @@ const devesh = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
+    <source media="(prefers-color-scheme: dark)"
             srcset="https://raw.githubusercontent.com/deveshsingh641/deveshsingh641/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
+    <source media="(prefers-color-scheme: light)"
             srcset="https://raw.githubusercontent.com/deveshsingh641/deveshsingh641/output/github-snake.svg" />
-    <img alt="github contribution snake animation" 
+    <img alt="github contribution snake animation"
          src="https://raw.githubusercontent.com/deveshsingh641/deveshsingh641/output/github-snake.svg" />
   </picture>
 </div>
 
+> ⚠️ The snake animation needs a GitHub Actions workflow in this repo to keep generating the SVG. See the setup note at the bottom if it isn't showing.
+
 ---
 
+## 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<a href="https://github.com/deveshsingh641?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsingh641&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/deveshsingh641?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deveshsingh641&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> ✏️ Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repository names to pin your best work here.
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Connect a blogging platform (Dev.to / Hashnode / Medium) to auto-populate this section
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/devesh-singh-0b234928b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/harshhere_666">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.deveshdev.live/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="mailto:deveshsingh20666@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+⭐️ From [deveshsingh641](https://github.com/deveshsingh641) — Thanks for stopping by!
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
