@@ -47,7 +47,6 @@ const devesh = {
   portfolio : "https://www.deveshdev.live/",
 
   currentlyBuilding : "Full-stack MERN projects",
-  currentlyLearning : ["System Design", "Advanced DSA", "Cloud (GCP)"],
   openTo            : ["Internships", "Freelance", "Open Source Collabs"],
 
   funFact : "I debug with console.log and I'm not ashamed 😄",
