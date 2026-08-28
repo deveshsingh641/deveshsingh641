@@ -199,15 +199,3 @@ const devesh = {
 </div>
 
 ---
-
-<details>
-<summary><strong>⚙️ One-time setup (click to expand)</strong></summary>
-
-<br/>
-
-| Feature | Steps |
-|---|---|
-| 🐍 **Snake animation** | In your `deveshsingh641` profile repo, create `.github/workflows/snake.yml` (code in previous message) → go to **Actions → Run workflow** once |
-| 📊 **Still seeing broken stats?** | [Deploy your own github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) on Vercel (free, ~2 min) and swap the domain |
-
-</details>
